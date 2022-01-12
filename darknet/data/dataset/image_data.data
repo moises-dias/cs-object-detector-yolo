@@ -1,5 +1,0 @@
-classes = 2
-train = /content/drive/My Drive/yolo/cs-object-detector-yolo/darknet/data/dataset/train.txt
-valid = /content/drive/My Drive/yolo/cs-object-detector-yolo/darknet/data/dataset/test.txt
-names = /content/drive/My Drive/yolo/cs-object-detector-yolo/darknet/data/dataset/classes.names
-backup = backup
